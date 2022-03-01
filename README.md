@@ -72,4 +72,5 @@ You should install a code editor and git.
 - Along with the city, the background of the application also changes according to tho the city name.
 - At the right side corner of the application, you can find a colour-changing option you can simply just click and change the colour.
 
+Link to visit Application: https://lucid-franklin-ba4db7.netlify.app
 
